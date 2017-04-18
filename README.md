@@ -1,4 +1,4 @@
-# Trends In San Mateo County Rent
+# San Mateo County Rent has increased dramatically during the Tech Boom in past 10 years
 Median Rent by Zip Code
 link: https://juli2017.github.io/TrendsInRent/  
 
@@ -7,9 +7,9 @@ link: https://juli2017.github.io/TrendsInRent/
 
 "On limited incomes, teachers struggle to find housing they can afford. Those who can’t find any move away to more affordable areas, leaving vacancies that can’t be filled. Between 2013 and 2015, teacher vacancies in San Mateo County increased nearly 68 percent, according to a Learning Policy Institute report." Source: <a href="http://www.hmbreview.com/news/district-explores-affordable-teacher-housing-cautiously/article_e6bd6156-961b-11e6-8b6b-b3ba3f8ecb4a.html">10/20/2016: District explores affordable teacher housing, cautiously</a>
 
-"A county renter needs to earn at least $88,903 to afford an average two-bedroom apartment." Source: <a href="https://www.almanacnews.com/news/2016/12/12/guest-opinion-we-must-work-together-to-solve-countys-housing-crisis">12/12/2016: Guest opinion: We must work together to solve county's housing crisis</a> 
+"A [San Mateo] county renter needs to earn at least $88,903 to afford an average two-bedroom apartment." Source: <a href="https://www.almanacnews.com/news/2016/12/12/guest-opinion-we-must-work-together-to-solve-countys-housing-crisis">12/12/2016: Guest opinion: We must work together to solve county's housing crisis</a> 
 
-# San Mateo County Rent has increased dramatically during the Tech Boom in past 10 years
+
 
 <iframe width="786" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1521cVIusJnIETd_9by3AKzAhs2Q4DeFxgY4_BlZOFQE/pubchart?oid=2073830845&amp;format=interactive"></iframe>
 Data:
@@ -18,8 +18,9 @@ In the past when rents went up in one location, a renter could move elsewhere in
 # Median Gross Rent by Zip Code Tabulation Areas in San Mateo County: 2000-2015  
 
 <iframe src="https://juli2017.github.io/SMCMedianRent/" width="90%" height="650"></iframe> 
-
-
+Data:
+Prior to 2015, the American Community Survey reported all median gross rent values by ZCTA that were over $2,000 per month as "2000+".  For the purposes of the visualization above, these were changed to 2,000, and the highest category shown is >=$2,000.
+The value shown in the information box for these cases is $2,000 which may under-report the actual value.  For 2015, the actual median gross rent is shown.
 
 # News Articles
 * 22 June 2015: <a href="http://www.slate.com/articles/business/metropolis/2015/06/san_francisco_rent_crisis_the_solution_isn_t_in_the_city_it_s_in_the_suburbs.html">The Biggest Problem With San Francisco’s Rent Crisis: The suburbs</a>
