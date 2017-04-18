@@ -1,9 +1,8 @@
-# San Mateo County Rent has increased dramatically during the Tech Boom in past 10 years
+# San Mateo County Rent has increased dramatically over the past 10 years
 Median Rent by Zip Code
 link: https://juli2017.github.io/TrendsInRent/  
 
 "The region known for a sizzling tech-fueled economy has added 440,000 jobs but only 50,000 new housing units, according to the business-sponsored Bay Area Council." Source: <a href="https://www.usnews.com/news/business/articles/2016-04-03/rent-control-spreads-from-pricey-san-francisco-to-suburbs">4/3/2016: In the pricey San Francisco Bay Area, rent control spreads to suburbs that once were affordable alternatives</a>
-
 
 "On limited incomes, teachers struggle to find housing they can afford. Those who can’t find any move away to more affordable areas, leaving vacancies that can’t be filled. Between 2013 and 2015, teacher vacancies in San Mateo County increased nearly 68 percent, according to a Learning Policy Institute report." Source: <a href="http://www.hmbreview.com/news/district-explores-affordable-teacher-housing-cautiously/article_e6bd6156-961b-11e6-8b6b-b3ba3f8ecb4a.html">10/20/2016: District explores affordable teacher housing, cautiously</a>
 
@@ -12,7 +11,7 @@ link: https://juli2017.github.io/TrendsInRent/
 
 
 <iframe width="786" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1521cVIusJnIETd_9by3AKzAhs2Q4DeFxgY4_BlZOFQE/pubchart?oid=2073830845&amp;format=interactive"></iframe>
-Data:
+Data:  
 In the past when rents went up in one location, a renter could move elsewhere in the county where rents were more affordable.  But that is no longer an alternative, as rents have increased significantly throughout the county. Breaking median gross rent down by zip code tabulation areas within the county, you can see in the visualization below how the dark green areas (indicating median rents over $2,000/month) have spread throughout San Mateo County.
 
 # Median Gross Rent by Zip Code Tabulation Areas in San Mateo County: 2000-2015  
