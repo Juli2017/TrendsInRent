@@ -1,6 +1,6 @@
 # Trends In San Mateo County Rent
 Median Rent by Zip Code
-link: https://juli2017.github.io/TrendsInRent/
+link: https://juli2017.github.io/TrendsInRent/  
 "The region known for a sizzling tech-fueled economy has added 440,000 jobs but only 50,000 new housing units, according to the business-sponsored Bay Area Council." Source: <a href="https://www.usnews.com/news/business/articles/2016-04-03/rent-control-spreads-from-pricey-san-francisco-to-suburbs">4/3/2016: In the pricey San Francisco Bay Area, rent control spreads to suburbs that once were affordable alternatives</a>
 
 
