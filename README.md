@@ -8,7 +8,7 @@ link: https://juli2017.github.io/TrendsInRent/
 
 # Median Gross Rent by Zip Code Tabulation Areas in San Mateo County: 2000-2015  
 
-<iframe src="https://juli2017.github.io/SMCMedianRent/" width="90%" height="400"></iframe> 
+<iframe src="https://juli2017.github.io/SMCMedianRent/" width="90%" height="600"></iframe> 
 
 
 
