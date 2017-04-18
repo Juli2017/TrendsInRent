@@ -13,12 +13,13 @@ link: https://juli2017.github.io/TrendsInRent/
 
 <iframe width="786" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1521cVIusJnIETd_9by3AKzAhs2Q4DeFxgY4_BlZOFQE/pubchart?oid=2073830845&amp;format=interactive"></iframe>
 Data:
-In the past when rents went up in one location, a renter could move elsewhere in the county where rents were more affordable.  But that is no longer an alternative, because rents throughout the county have risen so much recently.  Breaking median gross rent down by zip code tabulation areas within the county, you can see in the visualization below how the dark green areas (indicating median rents over $2,000/month) have spread throughout San Mateo County.
+In the past when rents went up in one location, a renter could move elsewhere in the county where rents were more affordable.  But that is no longer an alternative, as rents have increased significantly throughout the county. Breaking median gross rent down by zip code tabulation areas within the county, you can see in the visualization below how the dark green areas (indicating median rents over $2,000/month) have spread throughout San Mateo County.
 
 # Median Gross Rent by Zip Code Tabulation Areas in San Mateo County: 2000-2015  
 
 <iframe src="https://juli2017.github.io/SMCMedianRent/" width="90%" height="650"></iframe> 
-Data:
+Data:  Median Gross Rent values are not inflaction adjusted.
+
 Prior to 2015, the American Community Survey reported all median gross rent values by ZCTA that were over $2,000 per month as "2000+".  For the purposes of the visualization above, these were changed to 2,000, and the highest category shown is >=$2,000.
 The value shown in the information box for these cases is $2,000 which may under-report the actual value.  For 2015, the actual median gross rent is shown.
 
