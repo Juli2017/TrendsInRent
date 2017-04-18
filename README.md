@@ -11,7 +11,7 @@ link: https://juli2017.github.io/TrendsInRent/
 
 
 <iframe width="786" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1521cVIusJnIETd_9by3AKzAhs2Q4DeFxgY4_BlZOFQE/pubchart?oid=2073830845&amp;format=interactive"></iframe>
-<a href="https://docs.google.com/spreadsheets/d/1WiVJ3FvF3lXnHlf9Q6G85VlRKc4_BjzCSgVBTa7u9lI/edit#gid=0">Data from San Mateo Dept of Housing via Open San Mateo County as reported on March 1 for each year </a>  
+<a href="https://docs.google.com/spreadsheets/d/1WiVJ3FvF3lXnHlf9Q6G85VlRKc4_BjzCSgVBTa7u9lI/edit#gid=0">Data from San Mateo County Dept of Housing via Open San Mateo County as reported on March 1 for each year </a>  
 In the past when rents went up in one location, a renter could move elsewhere in the county where rents were more affordable.  But that is no longer an alternative, as rents have increased significantly throughout the county. Breaking median gross rent down by zip code tabulation areas within the county, you can see in the visualization below how the dark green areas (indicating median rents over $2,000/month) have spread throughout San Mateo County.
 
 # Median Gross Rent by Zip Code Tabulation Areas in San Mateo County: 2000-2015  
