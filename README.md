@@ -1,6 +1,7 @@
 # Trends In San Mateo County Rent
 Median Rent by Zip Code
 link: https://juli2017.github.io/TrendsInRent/  
+
 "The region known for a sizzling tech-fueled economy has added 440,000 jobs but only 50,000 new housing units, according to the business-sponsored Bay Area Council." Source: <a href="https://www.usnews.com/news/business/articles/2016-04-03/rent-control-spreads-from-pricey-san-francisco-to-suburbs">4/3/2016: In the pricey San Francisco Bay Area, rent control spreads to suburbs that once were affordable alternatives</a>
 
 
@@ -11,8 +12,8 @@ link: https://juli2017.github.io/TrendsInRent/
 # San Mateo County Rent has increased dramatically during the Tech Boom in past 10 years
 
 <iframe width="786" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1521cVIusJnIETd_9by3AKzAhs2Q4DeFxgY4_BlZOFQE/pubchart?oid=2073830845&amp;format=interactive"></iframe>
-
-
+Data:
+In the past when rents went up in one location, a renter could move elsewhere in the county where rents were more affordable.  But that is no longer an alternative, because rents throughout the county have risen so much recently.  Breaking median gross rent down by zip code tabulation areas within the county, you can see in the visualization below how the dark green areas (indicating median rents over $2,000/month) have spread throughout San Mateo County.
 
 # Median Gross Rent by Zip Code Tabulation Areas in San Mateo County: 2000-2015  
 
@@ -23,12 +24,10 @@ link: https://juli2017.github.io/TrendsInRent/
 # News Articles
 * 22 June 2015: <a href="http://www.slate.com/articles/business/metropolis/2015/06/san_francisco_rent_crisis_the_solution_isn_t_in_the_city_it_s_in_the_suburbs.html">The Biggest Problem With San Francisco’s Rent Crisis: The suburbs</a>
 * 28 December 2015: <a href="http://www.smdailyjournal.com/articles/lnews/2015-12-28/hard-lessons-of-the-housing-crisis-teachers-and-middle-class-families-feel-pinch-of-tight-housing-market/1776425155820.html">Hard lessons of the housing crisis: Teachers and middle class families feel pinch of tight housing market</a>
-
 * 20 July 2016: <a href="https://www.theguardian.com/technology/2016/jul/20/facebook-headquarters-expansion-menlo-park-california-housing">Facebook's neighbors are losing their homes. What's being done about it?</a>
 * 26 July 2016: <a href="https://www.wsj.com/articles/facebooks-answer-to-silicon-valley-housing-crunch-build-apartments-1469534402">Facebook’s Answer to Silicon Valley Housing Crunch: Build Apartments</a>  
 * 29 July 2016: <a href="https://www.wired.com/2016/07/facebook-apartments-wont-fix-housing-theyre-good-start/">Facebook Apartments Won’t Fix Housing—But They’re a Good Start</a>  
 * 9 November 2016: <a href="http://www.bizjournals.com/sanfrancisco/news/2016/11/09/bay-area-rent-control-measure-roundup-opponents.html">Where rent control ballot measures lived and died</a>  
-
 * 2 December 2016: <a href="https://www.philanthropy.com/article/Facebook-Pledges-20-Million/238568?cid=cpfd_home">Facebook Pledges $20 Million for Affordable Housing in Bay Area</a>
 * 12 April 2017: <a href="https://ww2.kqed.org/news/2017/04/12/pacifica-city-council-approves-temporary-rent-control-ordinance/">Pacifica City Council Approves Temporary Rent Control Ordinance</a>  
 
