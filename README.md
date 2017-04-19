@@ -8,7 +8,7 @@ link: https://juli2017.github.io/TrendsInRent/
 
 "A [San Mateo] county renter needs to earn at least $88,903 to afford an average two-bedroom apartment." Source: <a href="https://www.almanacnews.com/news/2016/12/12/guest-opinion-we-must-work-together-to-solve-countys-housing-crisis">12/12/2016: Guest opinion: We must work together to solve county's housing crisis</a> 
 
-<a href="http://www.cnbc.com/2017/03/03/facebook-engineers-struggling-with-rents-ask-mark-zuckerberg-for-help.html?__source=yahoo%7Cfinance%7Cheadline%7Cheadline%7Cstory&par=yahoo&doc=104319084&yptr=yahoo">Facebook engineers struggling with sky-high rents ask Mark Zuckerberg for help</a>
+<a href="http://www.cnbc.com/2017/03/03/facebook-engineers-struggling-with-rents-ask-mark-zuckerberg-for-help.html?__source=yahoo%7Cfinance%7Cheadline%7Cheadline%7Cstory&par=yahoo&doc=104319084&yptr=yahoo">3/3/2017: Facebook engineers struggling with sky-high rents ask Mark Zuckerberg for help</a>
 
 <iframe width="786" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1521cVIusJnIETd_9by3AKzAhs2Q4DeFxgY4_BlZOFQE/pubchart?oid=2073830845&amp;format=interactive"></iframe>
 <a href="https://docs.google.com/spreadsheets/d/1WiVJ3FvF3lXnHlf9Q6G85VlRKc4_BjzCSgVBTa7u9lI/edit#gid=0">Data from San Mateo County Dept of Housing via Open San Mateo County as reported on March 1 for each year </a>  
