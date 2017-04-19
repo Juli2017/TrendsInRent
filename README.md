@@ -10,7 +10,8 @@ link: https://juli2017.github.io/TrendsInRent/
 
 <a href="http://www.cnbc.com/2017/03/03/facebook-engineers-struggling-with-rents-ask-mark-zuckerberg-for-help.html?__source=yahoo%7Cfinance%7Cheadline%7Cheadline%7Cstory&par=yahoo&doc=104319084&yptr=yahoo">3/3/2017: Facebook engineers struggling with sky-high rents ask Mark Zuckerberg for help</a>  
 
-<iframe width="786" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1521cVIusJnIETd_9by3AKzAhs2Q4DeFxgY4_BlZOFQE/pubchart?oid=2073830845&amp;format=interactive"></iframe>
+<iframe width="786" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1521cVIusJnIETd_9by3AKzAhs2Q4DeFxgY4_BlZOFQE/pubchart?oid=2073830845&amp;format=interactive"></iframe>  
+
 <a href="https://docs.google.com/spreadsheets/d/1WiVJ3FvF3lXnHlf9Q6G85VlRKc4_BjzCSgVBTa7u9lI/edit#gid=0">Data from San Mateo County Dept of Housing via Open San Mateo County as reported on March 1 for each year </a>  
 
 In the past when rents went up in one location, a renter could move elsewhere in the county where rents were more affordable.  But that is no longer an alternative, as rents are now high throughout the county. Breaking median gross rent down by zip code tabulation areas within the county, you can see in the visualization below how the dark green areas (indicating median rents over $2,000/month) have spread throughout San Mateo County over the past 15 years.
@@ -18,7 +19,7 @@ In the past when rents went up in one location, a renter could move elsewhere in
 # Median Gross Rent by Zip Code Tabulation Areas in San Mateo County: 2000-2015  
 
 <iframe src="https://juli2017.github.io/SMCMedianRent/" width="90%" height="650"></iframe> 
-Data:   
+Source:  US Census American Community Survey 
 Median Gross Rent values are not inflaction adjusted.
 Prior to 2015, the American Community Survey reported all median gross rent values by ZCTA that were over $2,000 per month as "2000+".  For the purposes of the visualization above, these were changed to 2,000, and the highest category shown is >=$2,000.
 The value shown in the information box for these cases is $2,000 which may under-report the actual value.  For 2015, the actual median gross rent is shown.
