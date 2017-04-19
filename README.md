@@ -1,4 +1,4 @@
-# San Mateo County Rent has increased dramatically over the past 10 years
+# San Mateo County Rent has increased dramatically during the tech boom
 Median Rent by Zip Code
 link: https://juli2017.github.io/TrendsInRent/  
 
