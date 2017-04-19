@@ -32,4 +32,5 @@ The value shown in the information box for these cases is $2,000 which may under
 * 9 November 2016: <a href="http://www.bizjournals.com/sanfrancisco/news/2016/11/09/bay-area-rent-control-measure-roundup-opponents.html">Where rent control ballot measures lived and died</a>  
 * 2 December 2016: <a href="https://www.philanthropy.com/article/Facebook-Pledges-20-Million/238568?cid=cpfd_home">Facebook Pledges $20 Million for Affordable Housing in Bay Area</a>
 * 12 April 2017: <a href="https://ww2.kqed.org/news/2017/04/12/pacifica-city-council-approves-temporary-rent-control-ordinance/">Pacifica City Council Approves Temporary Rent Control Ordinance</a>  
-
+* Facebook employees ask for help with high rents: <a href="http://www.cnbc.com/2017/03/03/facebook-engineers-struggling-with-rents-ask-mark-zuckerberg-for-help.html?__source=yahoo%7Cfinance%7Cheadline%7Cheadline%7Cstory&par=yahoo&doc=104319084&yptr=yahoo">Facebook engineers struggling with sky-high rents ask Mark Zuckerberg for help</a>
+* Protest against Facebook by East Palo Alto Residents: <a href="http://www.mercurynews.com/2017/03/30/menlo-park-east-palo-alto-residents-to-rally-against-amazon-and-facebook-amid-gentrification-concerns/">Menlo Park, East Palo Alto residents rally against Facebook, Amazon amid gentrification concerns </a>
