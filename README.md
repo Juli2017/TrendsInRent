@@ -1,4 +1,4 @@
-<a href="https://juli2017.github.io/simple-page">Return To Main</a>
+<a href="https://juli2017.github.io/simple-page">Return To Main</a>  
 [https://juli2017.github.io/simple-page]
 
 # San Mateo County Rent has increased dramatically during the tech boom
