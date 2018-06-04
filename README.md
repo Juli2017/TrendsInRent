@@ -1,4 +1,4 @@
-Return to Main: <a href=https://juli2017.github.io/simple-page/</a>    
+Return to Main: <a href=https://juli2017.github.io/simple-page/></a>    
 
 # San Mateo County Rent has increased dramatically during the tech boom
 Median Rent by Zip Code
